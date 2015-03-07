@@ -1,0 +1,4 @@
+# change cwd for template paths
+cd mailpile/www/default/html/
+node ../../../../js/mailpile.js
+

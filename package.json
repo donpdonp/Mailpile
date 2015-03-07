@@ -2,6 +2,8 @@
   "name": "mailpile",
   "version": "0.4.1",
   "dependencies": {
+    "express": "latest",
+    "nunjucks": "latest",
     "grunt-cli": "latest",
     "grunt-contrib-concat": "latest",
     "grunt-contrib-uglify": "latest",
